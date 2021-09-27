@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "907081431568",
+    "project_id": "covid-iot-notification",
+    "storage_bucket": "covid-iot-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907081431568:android:053bdbe0c48f85d575e895",
+        "android_client_info": {
+          "package_name": "com.mrgreenapps.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907081431568-4231unb44f70be5i431k09ut1d5cru8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrgreenapps.notification",
+            "certificate_hash": "077abfdb2c5cf63cef46ab8e5d12f933a8eee031"
+          }
+        },
+        {
+          "client_id": "907081431568-j3qd63s0f4pb5es1q2udkfgec2upf8nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF56QMYywB0KtlXnzBSRW3yRpDA3eyCsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907081431568-j3qd63s0f4pb5es1q2udkfgec2upf8nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
